@@ -1,0 +1,5 @@
+# IntelliJ files
+.bsp
+.idea
+target/
+project/
